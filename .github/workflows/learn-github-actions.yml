@@ -1,5 +1,5 @@
 name: learn-github-actions
-run-name: ${{ github.actor }} is learning GitHub Actions in CONESLAT
+run-name: ${{ github.actor }} is learning GitHub Actions in CONESLAT 2024
 on: [push]
 jobs:
   check-bats-version:
